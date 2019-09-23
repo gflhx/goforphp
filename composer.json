@@ -1,0 +1,19 @@
+{
+    "name": "gflhx/goforphp",
+    "description": "go的PHP扩展",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gflhx",
+            "email": "479023498@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Goforphp\\": "/src"
+        }
+    }
+}
